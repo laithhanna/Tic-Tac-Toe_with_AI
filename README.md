@@ -15,8 +15,18 @@ How to play:
 
 1 - type "start player1 player2". Each player can be "user" or a difficulty level : "easy", "medium", or "hard". The first player plays first and uses X, the second one uses O.
 
-2 - Type in coordinates as in a xy plane, ranging from 1 to 3.
+2 - Type in coordinates in the desired position, ranging from 1 to 3 (row, column) as demonstrated below:
+
+(1,1)|(1,2)|(1,3)
+
+(2,1)|(2,2)|(2,3)
+
+(3,1)|(3,2)|(3,3)
 
 After each game you can exit the program by typing "exit" or go to the next game by repeating step 1 and 2
 
-PS: some pictures/videos will be uploaded for demonstration
+Kindly find pictures for demonstartion:
+
+![Hard vs User](https://user-images.githubusercontent.com/84100829/127535777-35204e00-05d8-49fd-8304-c8d0aaa596e4.PNG)
+
+![User vs Medium](https://user-images.githubusercontent.com/84100829/127535842-29e240ac-e68c-44cb-8cb3-2797d06d6d5f.PNG)
