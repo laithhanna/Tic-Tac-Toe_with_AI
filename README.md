@@ -1,4 +1,4 @@
-# Tic-Tac-Toe_with_AI
+# Tic-Tac-Toe with AI
 Hello everyone, this is my first java project and it turned out to be a Tic-Tac-Toe with AI
 
 about the project:
