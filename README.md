@@ -1,5 +1,5 @@
 # Tic-Tac-Toe with AI
-Hello everyone, this is my first java project and it turned out to be a Tic-Tac-Toe with AI
+Hello everyone, this is my first java project and it turned out to be a game! to be exact: Tic-Tac-Toe with AI
 
 about the project:
 •	Created a Tic-Tac-Toe game that provides three options: Human vs Human, Human vs AI / AI vs Human, and AI vs AI
